@@ -18,10 +18,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Saadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadi-ai&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saadi-ai&layout=compact&theme=radical)  
-
 ---
 
 ## 🧩 Featured Projects  
